@@ -30,10 +30,10 @@
 </addon>
 
 <addon
-    id="skin.tvnetplay.zephyr"
+    id="skin.arctic.zephyr"
     version="0.0.11"
-    name="TVNETPlay Installer 1"
-    provider-name="mariopazmino">
+    name="Arctic: Zephyr +"
+    provider-name="jurialmunkey">
     <requires>
         <import addon="xbmc.gui" version="5.12.0"/>
         <import addon="script.skinshortcuts" version="0.4.0"/>
