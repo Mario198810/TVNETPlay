@@ -30,8 +30,8 @@
 </addon>
 
 <addon
-    id="skin.arctic.zephyr"
-    version="2.3.13"
+    id="skin.tvnetplay.zephyr"
+    version="0.0.11"
     name="TVNETPlay Installer 1"
     provider-name="mariopazmino">
     <requires>
