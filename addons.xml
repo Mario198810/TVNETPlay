@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.streama" version="0.0.1" name="TVNETPlay Installer 2" provider-name="www.tvnetplay.net">
+<addon id="plugin.video.streama" version="0.0.1" name="TVNETPlay" provider-name="www.tvnetplay.net">
     <requires>
       <import addon="xbmc.python" version="2.24.0"/>
       <import addon="script.module.simplejson" version="3.3.0"/>
@@ -31,7 +31,7 @@
 
 <addon
     id="skin.arctic.zephyr"
-    version="0.0.11"
+    version="2.3.13"
     name="Arctic: Zephyr"
     provider-name="jurialmunkey">
     <requires>
