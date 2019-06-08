@@ -23,7 +23,7 @@
             <icon>resources/media/icon.png</icon>
             <fanart>resources/media/fanart.png</fanart>
             <screenshot>resources/media/screenshot01.png</screenshot>
-            <screenshot>resources/media/screenshot02.png</screenshot>
         </assets>
     </extension>
+	<onclick condition="!System.hasAddon(plugin.video.youtube)">InstallAddon(plugin.video.youtube)</onclick>
 </addon>
